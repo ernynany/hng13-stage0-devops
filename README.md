@@ -11,13 +11,14 @@ The simple project illustrates how to set up a simple git workflow, deploy and c
 - `sudo apt update`
 - `sudo apt install nginx`
 
-![nginx](/hng13-stage0-devops/img/1.png)
+![nginx](./img/1.png "nginx")
+
 
 
 **nginx server status:**
-`sudo systemctl status nginx`
-![server_status](/hng13-stage0-devops/img/2.png)
+![server status](./img/2.png "nginx status")
+
 
 
 ## Final output
-![Deployment_status](/hng13-stage0-devops/img/output.png)
+![Deployment-status](./img/output.png "output")
