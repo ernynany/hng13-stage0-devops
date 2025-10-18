@@ -4,7 +4,7 @@
 - Slack: ernynany
 
 ## Project description
-The simple project illustrates how to set up a simple git workflow, deploy and configure a live nginx webserver to server webpages on port 80. The webserver is deployed on GCP compute instance with a public facing IP: **[34.70.98.36](http://34.70.98.36/)**
+The simple project illustrates how to set up a simple git workflow, deploy and configure a live nginx webserver to server webpages on port 80. The webserver is deployed on GCP compute instance with a public facing IP: **[34.45.152.10](http://34.45.152.10/)**
 
 
 ## Some Screenshots
